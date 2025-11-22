@@ -1,7 +1,7 @@
 # gallery-360
 Es una aplicación web "Flat-file" (sin base de datos SQL) muy completa para la gestión y visualización de medios 360° (imágenes y videos), diseñada para fotógrafos, arquitectos o agentes inmobiliarios. 
 
-**Contraseña inicial: galeria360
+**Contraseña inicial: Galeria360
 **Sientete en la libertad de usar un sistema de autentificación mas robusto e implementar un archivo .htaccess en tu servidor para evitar accesos directamente a usuarios no loggeados.
 
 # Gestor de Medios 360° (PHP Flat-file)
